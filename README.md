@@ -214,10 +214,12 @@ public class Addition_Game_HW6 {
 
 
 	}
+	```
 
 
 
 ## Console
+```
 Hello Class
 What integer is 1 + 1?
 Please answer in integers only.
@@ -247,6 +249,7 @@ Score is: 120
 hardness is: 1000
 End of round 4 and the end of the game
 Final Score = 120
+```
 ## Summary
 This program is a math addition project that asks the user to add two different numbers and displays the final score. The program looks complicated as it is too long. But, it is simple and easily assessable to user. I have used IF statement to verify the answer assigned by the user. IF statement is a conditional statement that runs on the basis of assigned limitations. The most unique thing that I have used in the program is the Math random syntax. By using this syntax, we can generate the random numbers in the console. The number varies if we run the program again and again, that makes the program unique every time. Beside these, I have used Scanner class for console input. I have used a lot of variables to store the values for calculations. IF statements and System.out statements are used time and again to check the answers prompt by the user and to print the statements according the matched conditions.
 
