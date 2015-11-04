@@ -1,5 +1,27 @@
 # Introduction
 This is an additional game that is based on simple math addition. It consists of four rounds. The user is asked to add two random numbers. Each correct answer is followed by 10 points and incorrect answer is followed by simpler question. At last, the final score is printed on the console screen.
+
+## Outline
+
+```
+// Outline for addition problem.
+// Round 1
+//	Generate 2 random numbers
+//  to keep track of the correct answer
+//  Ask the user to add these two numbers together
+//  Read in their response
+//  Check if the answer was correct
+//  IF correct
+//	Tell them it was correct
+//	Give them points
+//	Make the next question harder
+//	IF not correct
+//	Tell them it was wrong
+// 	Tell them the correct answer
+//	Do not give them points
+//	Make the next question easier
+// end of round 1
+
 ## Code
 ```java
 /**
