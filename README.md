@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 This is an additional game that is based on simple math addition. It consists of four rounds. The user is asked to add two random numbers. Each correct answer is followed by 10 points and incorrect answer is followed by simpler question. At last, the final score is printed on the console screen.
 ## Code
 ```java
